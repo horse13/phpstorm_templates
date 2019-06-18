@@ -1,0 +1,8 @@
+{
+    "name": "testvendor/testpackage",
+    "description": "mypackage does nothing",
+    "require": {
+        "php": "^7.2"
+        
+    }
+}
