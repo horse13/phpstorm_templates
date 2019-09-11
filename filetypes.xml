@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="testing_idents.php" type="JSON" />
+      <removed_mapping ext="tpl" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
